@@ -11,7 +11,7 @@ public class CheckPowerOf4 {
             }}
    if(t==1)
    {
-       System.out.println("The given number "+n+" is power of Four");   
+       System.out.println("The given number "+n+" is power of Four");
    }
    else
    {
